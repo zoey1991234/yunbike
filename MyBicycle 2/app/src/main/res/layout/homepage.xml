@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+    android:background="@drawable/bike_icon"> <!-- 设置背景图像 -->
+
+    <!-- 騎行時間標題 -->
+    <TextView
+        android:id="@+id/riding_time_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Riding Time"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:layout_marginTop="155dp"/>
+
+    <!-- 騎行時間 -->
+    <TextView
+        android:id="@+id/riding_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="25:00"
+        android:textSize="36sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@id/riding_time_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/end_of_riding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/riding_time"
+        android:layout_centerHorizontal="true"
+        android:text="End of Riding"
+        android:textColor="@android:color/black"
+        android:textSize="28sp"
+        android:layout_marginTop="420dp"/>
+
+
+
+    <ImageButton
+        android:id="@+id/profile_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="155dp"
+        android:contentDescription="@string/profile_button_desc"
+        android:src="@drawable/ic_profile" />
+
+    <ImageButton
+        android:id="@+id/card_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-46.5dp"
+        android:layout_marginBottom="70dp"
+        android:layout_toEndOf="@id/profile_button"
+        android:contentDescription="@string/card_button_desc"
+        android:src="@drawable/ic_card" />
+
+    <ImageButton
+        android:id="@+id/help_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_help"
+        android:contentDescription="@string/help_button_desc"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginEnd="16dp" />
+
+    <ImageButton
+        android:id="@+id/qrcode_button"
+        android:layout_width="120dp"
+        android:layout_height="123dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="117dp"
+        android:layout_marginBottom="70dp"
+        android:contentDescription="@string/help_button_desc"
+        android:src="@drawable/qrcode" />
+
+
+</RelativeLayout>

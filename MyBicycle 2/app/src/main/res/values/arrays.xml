@@ -1,0 +1,8 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="problem_types">
+        <item>Type of problem</item>
+        <item>Payment issue</item>
+        <item>Bike issue</item>
+    </string-array>
+</resources>

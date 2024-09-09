@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBicycle</string>
+    <string name="bike_icon_desc">Bike Icon</string>
+    <string name="profile_button_desc">Profile Button</string>
+    <string name="card_button_desc">Card Button</string>
+    <string name="help_button_desc">Help Button</string>
+</resources>

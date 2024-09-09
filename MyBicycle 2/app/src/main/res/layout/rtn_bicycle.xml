@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+    android:background="@drawable/bike_icon"> <!-- 设置背景图像 -->
+
+    <!-- 騎行時間標題 -->
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginBottom="473dp"
+        android:ems="10"
+        android:format="%s"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/riding_time_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Riding Time"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:layout_marginTop="155dp"/>
+
+    <!-- 騎行時間 -->
+
+
+    <Button
+        android:id="@+id/rtnButton"
+        android:layout_width="164dp"
+        android:layout_height="69dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="109dp"
+        android:layout_marginBottom="128dp"
+        android:text="Finish Riding"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
