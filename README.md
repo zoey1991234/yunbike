@@ -41,3 +41,33 @@ Behavior State Machine
 # 登入介面
 
 ![image](https://github.com/user-attachments/assets/17626bab-89ef-4d94-ada1-5111d633d575)
+
+
+校園地圖(選取欲租車地點查看狀態)
+
+![image](https://github.com/user-attachments/assets/724a9aa7-5cf3-49b8-9a72-2d4ecffc1cd7)
+
+
+![image](https://github.com/user-attachments/assets/c5af7a53-961d-4517-bcb7-85686b3833aa)
+
+掃描QRcode後先顯示ipass餘額確認後顯示計時畫面
+
+![image](https://github.com/user-attachments/assets/02e6ca3a-fe53-4141-b57a-b258b40862c1)
+
+
+![image](https://github.com/user-attachments/assets/7b69702a-ef23-4f44-8136-0dd76b38ecf5)
+
+按下Finish Riding後要掃描QRcode歸還
+
+![image](https://github.com/user-attachments/assets/08b4501e-8f90-4362-8fc1-b3f65a68a666)
+
+歸還後顯示餘額
+
+![image](https://github.com/user-attachments/assets/8b88a361-04ad-48d7-a8b9-831cd5a017f8)
+
+客服畫面
+
+![image](https://github.com/user-attachments/assets/5cbab8eb-2e9e-4a3f-8399-97c22b85a61a)
+
+
+
