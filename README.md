@@ -67,7 +67,7 @@
 
 ![image](https://github.com/user-attachments/assets/8b88a361-04ad-48d7-a8b9-831cd5a017f8)
 
-客服畫面
+客服畫面(可上傳圖片)
 
 ![image](https://github.com/user-attachments/assets/5cbab8eb-2e9e-4a3f-8399-97c22b85a61a)
 
