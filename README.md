@@ -1,2 +1,6 @@
 # yunbike
-預計地圖介面UI 5/9 -進行中- //20240505
+# 環境配置
+
+開發環境：Windows 10　，　Visual Studio Code
+
+# 運行步驟
