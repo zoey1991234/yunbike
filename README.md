@@ -1,7 +1,7 @@
 # yunbike
 
 # 概述
- 用Java 開發校園租車 Android 應用,資料庫用MySQL來儲存用戶資訊,使用者可以掃描QRcode租借腳踏車
+ 用Java 開發校園租車 Android 應用,資料庫用MySQL來儲存用戶資訊,,使用者可以從校園地圖上看到停車站的狀態並藉由掃描QRcode租借腳踏車
 
 # 環境配置
 
