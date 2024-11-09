@@ -30,9 +30,20 @@
 
 ![image](https://github.com/user-attachments/assets/4f7fd423-b90e-4c72-9828-554e4b11dbf9)
 
+# Class Diagram
+
+![5_1Revised-TW1- (Revised)class diagram drawio](https://github.com/user-attachments/assets/3859e975-b742-479f-bd59-8e5f97f33d8b)
+
+# Sepuence Diagram
+
+![5_1Revised-TW1-(Revised) sequence diagram  drawio](https://github.com/user-attachments/assets/98516530-55b2-4ffe-b36a-36776ab508da)
+
+
+
 # Behavior State Machine 
 
-![image](https://github.com/user-attachments/assets/31d9e532-d13d-457d-a14e-1974e35f44c7)
+![5_1Revised-TW1-(Revised) behavior state machine  drawio](https://github.com/user-attachments/assets/2acd22fc-c347-4c80-aa81-b2dad6e0f32b)
+
 
 
 
